@@ -18,6 +18,7 @@
             "hash": ""
         }
     },
+    "extract_to": "",
     "pre_install": "",
     "installer": {
         "script": ""
