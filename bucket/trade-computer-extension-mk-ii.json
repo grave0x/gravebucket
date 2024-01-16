@@ -7,7 +7,8 @@
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://tce.4lima.de/releases/TCE_MK.II_1.9.2.4_full.zip"
+            "url": "https://tce.4lima.de/releases/TCE_MK.II_1.9.2.4_full.zip",
+            "hash": "40e77f96d02c09b602e537906fbb3d0149dfb515519873177565a06cd023971e"
         },
         "32bit": {
             "url": "",
@@ -20,9 +21,7 @@
     },
     "extract_to": "",
     "pre_install": "",
-    "installer": {
-        "script": ""
-    },
+    "installer": "TCE_Setup.msi",
     "post_install": [
         "",
         ""
