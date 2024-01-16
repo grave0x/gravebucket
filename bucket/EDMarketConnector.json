@@ -1,0 +1,11 @@
+{
+    "version": "5.10.1",
+    "description": "This application is only of use to PC players of the game Elite Dangerous (and its expansions).",
+    "homepage": "https://github.com/EDCD/EDMarketConnector",
+    "license": "Copyright © 2015-2019 Jonathan Harris, 2020-2021 EDCD",
+    "notes": "",
+    "url": "https://github.com/EDCD/EDMarketConnector/releases/download/Release%2F5.10.1/EDMarketConnector-release-5.10.1.zip",
+    "hash": "060e3221ae96be8e6b4ca79e6bf7fb45b6730f8e95fa0f0d116f10223fd26572",
+    "extract_dir": "EDMarketConnector"
+
+}
